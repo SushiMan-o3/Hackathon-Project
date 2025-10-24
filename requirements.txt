@@ -1,3 +1,5 @@
 opencv-python
+mediapipe opencv-contrib-python
 numpy
 scikit-build
+ultralytics 
